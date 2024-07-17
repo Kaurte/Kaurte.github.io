@@ -11,9 +11,9 @@ title                    : "Tejinder Kaur"
 title_separator          : "-"
 name                     : &name "Tejinder Kaur"
 description              : &description "personal description"
-url                      :https://kaurte.github.io/Tejinder.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :https://kaurte.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tejinder.github.io"
+repository               : "Kaurte.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tejinder Kaur"
-  avatar           : "0ea485c7.jpg"
+  avatar           : "Tejinder.jpg"
   bio              : "Postdoctoral Researcher at University of Michigan <b>kaurte@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
